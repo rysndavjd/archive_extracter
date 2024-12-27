@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z $1 ]] ; then
-    printf "Read github docs: https://github.com/rysndavjd/archive_extractor\n"
+    printf "Read github docs: https://github.com/rysndavjd/archive_extracter\n"
     exit 0
 fi
 
